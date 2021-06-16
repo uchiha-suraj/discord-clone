@@ -16,9 +16,17 @@
     🟢 login and logout feature enabled with Google authentication.
     🟢 Real time chat feature powered by firebase firestore. 
   
-  ### Demo
+  ### Login and Logout:
   
   [![Demo](https://user-images.githubusercontent.com/46050946/122202940-29c64d00-cebb-11eb-944c-a4657ca7d40d.png)](https://user-images.githubusercontent.com/46050946/121813575-3021b280-cc8a-11eb-9e41-5533a78b4423.mp4)
+  
+  ### App showcase and real-time message:
+  
+  [![Demo](https://user-images.githubusercontent.com/46050946/122202940-29c64d00-cebb-11eb-944c-a4657ca7d40d.png)](https://user-images.githubusercontent.com/46050946/122202354-9b51cb80-ceba-11eb-9a60-d282de73bda6.mp4)
+  
+  ### Creating new channel and real-time message:
+  
+  [![Demo](https://user-images.githubusercontent.com/46050946/122202940-29c64d00-cebb-11eb-944c-a4657ca7d40d.png)](https://user-images.githubusercontent.com/46050946/122202801-026f8000-cebb-11eb-849a-a13a252242f0.mp4)
   
   **[⬆ Back to Top](#discord-clone)**
 
