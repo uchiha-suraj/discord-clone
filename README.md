@@ -44,7 +44,7 @@
 
     🔷  Firebase-firestore => real time chat feature.
 
-    🔷  Firebase => to deploy the app
+    🔷  Firebase => to deploy the app  
     
     
   **[⬆ Back to Top](#discord-clone)**
