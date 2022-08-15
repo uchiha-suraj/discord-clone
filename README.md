@@ -8,7 +8,7 @@
  
 
 ## Firebase link of this project:  
-  ### see the project [here](https://discord-a8360.web.app/).
+  ### see the project [here](https://discord-85e8a.web.app).
 
 ## Key Features:
 
